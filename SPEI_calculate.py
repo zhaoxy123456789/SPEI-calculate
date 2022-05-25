@@ -60,6 +60,3 @@ for file in all_csv_list:
     dataframe.to_csv(os.path.join(file_to,file+'_spei24.csv'))
     print(file+'写入成功')
 print('所有文件写入成功')
-© 2022 GitHub, Inc.
-Terms
-Privacy
